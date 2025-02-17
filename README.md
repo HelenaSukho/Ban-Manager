@@ -4,4 +4,4 @@ It was for me a way to train myself a bit with tkinters grid and frame method. I
 Most of the time this application was written by myself. I only had to use Chatgpt to get some teaching into json, how to extract keys and values
 out of a dictionary. 
 
-Inside this repository you will find the main application and the .py file to it. I maybe will improve it along the way when i get better with python and tkinter.
+Inside this repository you will find the .py file to it. I maybe will improve it along the way when i get better with python and tkinter.
